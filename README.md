@@ -23,3 +23,6 @@ This project predicts whether a bank customer will churn using Machine Learning.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+## 📸 App Preview
+![App Screenshot](screenshot.png)
+
