@@ -1,5 +1,8 @@
 # 🏦 Bank Customer Churn Prediction
 
+## 🌐 Live App
+https://veeruchalla88-bank-customer-churn-prediction-app-brinqp.streamlit.app
+
 ## 📊 Overview
 This project predicts whether a bank customer will churn using Machine Learning.
 
